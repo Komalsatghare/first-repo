@@ -1,4 +1,4 @@
 # first-repo
 this is my first repository 
 <br>
-author - komal satghare
+author - komal satghare (name)
